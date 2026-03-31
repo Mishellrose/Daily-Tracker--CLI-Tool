@@ -1,0 +1,10 @@
+2026-03-31 12:26:00,510 - INFO - User selected option: 1
+2026-03-31 12:26:13,611 - INFO - Task added: {'id': 5, 'name': 'fg', 'completed': False, 'priority': '4', 'due_date': '4/3/2002'}
+2026-03-31 14:25:05,408 - INFO - User selected option: 3
+2026-03-31 14:25:05,415 - INFO - Viewing tasks
+2026-03-31 14:34:58,152 - INFO - User selected category food
+2026-03-31 14:34:58,161 - WARNING - Invalid expense category selected
+2026-03-31 14:36:32,237 - INFO - User selected category 2
+2026-03-31 14:36:52,262 - INFO - Expense added: {'category': 'travel', 'amount': 500.0, 'date': '2020-02-22'}
+2026-03-31 16:10:01,656 - INFO - User selected category 3
+2026-03-31 16:10:11,103 - INFO - Expense added: {'category': 'groceries', 'amount': 49.0, 'date': '2024/8/12'}

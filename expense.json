@@ -1,0 +1,12 @@
+[
+    {
+        "category": "travel",
+        "amount": 500.0,
+        "date": "2020-02-22"
+    },
+    {
+        "category": "groceries",
+        "amount": 49.0,
+        "date": "2024/8/12"
+    }
+]
