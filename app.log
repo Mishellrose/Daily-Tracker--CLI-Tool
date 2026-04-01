@@ -8,3 +8,7 @@
 2026-03-31 14:36:52,262 - INFO - Expense added: {'category': 'travel', 'amount': 500.0, 'date': '2020-02-22'}
 2026-03-31 16:10:01,656 - INFO - User selected category 3
 2026-03-31 16:10:11,103 - INFO - Expense added: {'category': 'groceries', 'amount': 49.0, 'date': '2024/8/12'}
+2026-03-31 16:29:59,565 - INFO - User selected option: rfge
+2026-03-31 16:29:59,601 - WARNING - Invalid option selected
+2026-03-31 16:30:07,422 - INFO - User selected option: 1
+2026-03-31 16:30:20,628 - INFO - Task added: {'id': 6, 'name': 'g', 'completed': False, 'priority': '2', 'due_date': 'rtegh'}
